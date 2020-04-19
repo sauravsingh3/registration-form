@@ -1,0 +1,30 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f2f2f2;
+  border: 1rem;
+}
+
+.btn {
+  background-color: #fff;
+  color: #000;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .name {
+    padding-right: .5em;
+  }
+
+  .age {
+    padding-left: .5em;
+  }
+
+  .email {
+    padding-right: .5em;
+  }
+
+  .subject {
+    padding-left: .5em;
+  }
+
+}
